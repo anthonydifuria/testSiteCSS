@@ -110,7 +110,6 @@ hr {
 	background-color: transparent;
 }
 .navbar-toggle {
-	margin-top: 10px;
 	border-radius: 0;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
