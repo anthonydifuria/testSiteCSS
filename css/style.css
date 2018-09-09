@@ -83,6 +83,7 @@ hr {
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
+	background: url(../img/logo_ICSC2019.png) top center no-repeat;
 	font-size: 26px;
 	font-weight: 600;
 	color: #eee;
