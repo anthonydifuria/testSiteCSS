@@ -207,6 +207,9 @@ header .intro-text {
 	padding: 120px 0;
 	background: #222222;
 }
+#submissions h2 {
+	color: #fff;
+}
 #submissions h3 {
 	font-size: 22px;
 	font-weight: 600;
