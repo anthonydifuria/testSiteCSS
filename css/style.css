@@ -98,7 +98,7 @@ hr {
 	margin: 9px 20px 0 20px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #6aaf08;
+	color: #f9392b;
 }
 .on {
 	background-color: #333 !important;
@@ -106,7 +106,7 @@ hr {
 	padding: 15px 0 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #6aaf08 !important;
+	color: #f9392b !important;
 	background-color: transparent;
 }
 .navbar-toggle {
@@ -117,7 +117,7 @@ hr {
 	border-color: #fff;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
-	background-color: #6aaf08;
+	background-color: #f9392b;
 }
 .section-title {
 	margin-bottom: 70px;
@@ -425,7 +425,7 @@ ol.type li a:hover {
 /* Contact Section */
 #contact {
 	padding: 100px 0;
-	background: #222222;
+	background: #f9392b;
 }
 #contact .section-title p {
 	color: #fff;
