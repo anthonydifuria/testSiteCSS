@@ -425,10 +425,10 @@ ol.type li a:hover {
 /* Contact Section */
 #contact {
 	padding: 100px 0;
-	background: #F6F6F6;
+	background: #222222;
 }
 #contact .section-title p {
-	color: #777;
+	color: #fff;
 }
 #contact form {
 	padding: 0;
@@ -439,6 +439,11 @@ ol.type li a:hover {
 	font-size: 17px;
 	font-weight: 600;
 }
+
+#contact hr {
+background: rgba(255,255,255,0.6);
+}
+
 #contact .text-danger {
 	color: #cc0033;
 	text-align: left;
